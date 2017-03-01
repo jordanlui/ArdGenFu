@@ -1,1 +1,1 @@
-# squarewave_generator
+# ArdGenFu - The Arduino Function Generatore
